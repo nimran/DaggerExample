@@ -1,0 +1,74 @@
+A needs a Job, thus B is dependency of A
+
+Instead of creating a dependency by yourself, ask 3rd party object or framework to create for you
+
+
+what the class looks like 
+
+Database db;
+class FetchData {
+	public String fetchFromDB() {
+		db = new Database();
+		return db.getMyValue;
+	}
+}
+
+now we are dependent on  Database() object.
+What if you want to do unit testing on the class FetchData ?
+
+Generally unit testing means, take one class at a time, and check all its methods are good (y)
+We cant unittest FetchData since we need db value ?
+
+Struck ...
+
+
+How we can make it loosely coupled ?
+
+Construct everything outside the class
+
+1) Setter Injection
+
+Database db;
+
+public void setDatabase(Database db) {
+	this.db = db;
+}
+class FetchData {
+	public String fetchFromDB() {
+		return db.getMyValue;
+	}
+}
+
+Problem :
+setter needs to be called before fecthFromDB method
+
+Solution:
+Constructor Injection
+
+Database db;
+class FetchData {
+	public void FetchData(Database db) {
+		this.db = db;
+	}
+	public String fetchFromDB() {
+		return db.getMyValue;
+	}
+}
+
+if the class is big and it depends on many objectss, you cant pass all in consturctor. :(
+
+
+
+
+Dont create object yourself, let someone gives you the objects you need
+
+
+
+@Inject with the object you need like SharedPreferences, Picasso
+
+
+
+3 questions in Dagger
+which object do you want to inject? Picasso,DB,SharedPReferences
+where to inject this? Activity,Fragment
+How will you construct this?

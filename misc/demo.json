@@ -59,14 +59,14 @@
     {
     "id":8,
       "name": "Jaguar",
-      "image": "http://www.carlogos.org/logo/Jaguar-Benz-logo.png",
+      "image": "http://www.carlogos.org/logo/Jaguar-logo.png",
       "year": "2013",
       "rating": 4.5
     },
     {
     "id":9,
       "name": "Chevrolet",
-      "image": "http://www.carlogos.org/logo/Chevrolet-Benz-logo.png",
+      "image": "http://www.carlogos.org/logo/Chevrolet-logo.png",
       "year": "2014",
       "rating": 4
     }

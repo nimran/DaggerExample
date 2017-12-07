@@ -12,7 +12,7 @@
       "name": "Lamborghini",
       "image": "http://www.carlogos.org/logo/Lamborghini-logo.png",
       "year": "2013",
-      "rating": 3.5
+      "rating": 3
     },
     {
     "id":2,
@@ -26,7 +26,7 @@
       "name": "Mercedes",
       "image": "http://www.carlogos.org/logo/Mercedes-Benz-logo.png",
       "year": "2014",
-      "rating": 4.5
+      "rating": 4
     },
     {
     "id":4,
@@ -40,7 +40,7 @@
       "name": "Hyundai",
       "image": "http://www.carlogos.org/logo/Hyundai-logo.png",
       "year": "2013",
-      "rating": 3.5
+      "rating": 3
     },
     {
     "id":6,
@@ -54,14 +54,14 @@
       "name": "Volkswagen",
       "image": "http://www.carlogos.org/logo/Volkswagen-logo.png",
       "year": "2012",
-      "rating": 3.5
+      "rating": 3
     },
     {
     "id":8,
       "name": "Jaguar",
       "image": "http://www.carlogos.org/logo/Jaguar-logo.png",
       "year": "2013",
-      "rating": 4.5
+      "rating": 4
     },
     {
     "id":9,

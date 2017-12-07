@@ -3,52 +3,62 @@
     {
       "name": "Ferrari",
       "image": "http://www.carlogos.org/logo/Ferrari-logo.png",
-      "year": "2012"
+      "year": "2012",
+      "rating": 4
     },
     {
       "name": "Lamborghini",
       "image": "http://www.carlogos.org/logo/Lamborghini-logo.png",
-      "year": "2013"
+      "year": "2013",
+      "rating": 3.5
     },
     {
       "name": "Porsche",
       "image": "http://www.carlogos.org/logo/Porsche-logo.png",
-      "year": "2013"
+      "year": "2013",
+      "rating": 4
     },
     {
       "name": "Mercedes",
       "image": "http://www.carlogos.org/logo/Mercedes-Benz-logo.png",
-      "year": "2014"
+      "year": "2014",
+      "rating": 4.5
     },
     {
       "name": "BMW",
       "image": "http://www.carlogos.org/logo/BMW-logo.png",
-      "year": "2015"
+      "year": "2015",
+      "rating": 5
     },
     {
       "name": "Hyundai",
       "image": "http://www.carlogos.org/logo/Hyundai-logo.png",
-      "year": "2013"
+      "year": "2013",
+      "rating": 3.5
     },
     {
       "name": "Lamborghini",
       "image": "http://www.carlogos.org/logo/Lamborghini-logo.png",
-      "year": "2014"
+      "year": "2014",
+      "rating": 4
     },
     {
       "name": "Volkswagen",
       "image": "http://www.carlogos.org/logo/Volkswagen-logo.png",
-      "year": "2012"
+      "year": "2012",
+      "rating": 3.5
     },
     {
       "name": "Jaguar",
       "image": "http://www.carlogos.org/logo/Jaguar-Benz-logo.png",
-      "year": "2013"
+      "year": "2013",
+      "rating": 4.5
     },
     {
       "name": "Chevrolet",
       "image": "http://www.carlogos.org/logo/Chevrolet-Benz-logo.png",
-      "year": "2014"
+      "year": "2014",
+      "rating": 4
     }
   ]
 }

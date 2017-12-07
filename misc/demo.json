@@ -1,44 +1,54 @@
 {
   "cars": [
     {
-      "name": "\"Ferrari\"",
-      "image": "\"http://www.carlogos.org/logo/Ferrari-logo.png\""
+      "name": "Ferrari",
+      "image": "http://www.carlogos.org/logo/Ferrari-logo.png",
+      "year": "2012"
     },
     {
-      "name": "\"Lamborghini\"",
-      "image": "\"http://www.carlogos.org/logo/Lamborghini-logo.png\""
+      "name": "Lamborghini",
+      "image": "http://www.carlogos.org/logo/Lamborghini-logo.png",
+      "year": "2013"
     },
     {
-      "name": "\"Porsche\"",
-      "image": "\"http://www.carlogos.org/logo/Porsche-logo.png\""
+      "name": "Porsche",
+      "image": "http://www.carlogos.org/logo/Porsche-logo.png",
+      "year": "2013"
     },
     {
-      "name": "\"Mercedes\"",
-      "image": "\"http://www.carlogos.org/logo/Mercedes-Benz-logo.png\""
+      "name": "Mercedes",
+      "image": "http://www.carlogos.org/logo/Mercedes-Benz-logo.png",
+      "year": "2014"
     },
     {
-      "name": "\"BMW\"",
-      "image": "\"http://www.carlogos.org/logo/BMW-logo.png\""
+      "name": "BMW",
+      "image": "http://www.carlogos.org/logo/BMW-logo.png",
+      "year": "2015"
     },
     {
-      "name": "\"Hyundai\"",
-      "image": "\"http://www.carlogos.org/logo/Hyundai-logo.png\""
+      "name": "Hyundai",
+      "image": "http://www.carlogos.org/logo/Hyundai-logo.png",
+      "year": "2013"
     },
     {
-      "name": "\"Lamborghini\"",
-      "image": "\"http://www.carlogos.org/logo/Lamborghini-logo.png\""
+      "name": "Lamborghini",
+      "image": "http://www.carlogos.org/logo/Lamborghini-logo.png",
+      "year": "2014"
     },
     {
-      "name": "\"Volkswagen\"",
-      "image": "\"http://www.carlogos.org/logo/Volkswagen-logo.png\""
+      "name": "Volkswagen",
+      "image": "http://www.carlogos.org/logo/Volkswagen-logo.png",
+      "year": "2012"
     },
     {
-      "name": "\"Jaguar\"",
-      "image": "\"http://www.carlogos.org/logo/Jaguar-Benz-logo.png\""
+      "name": "Jaguar",
+      "image": "http://www.carlogos.org/logo/Jaguar-Benz-logo.png",
+      "year": "2013"
     },
     {
-      "name": "\"Chevrolet\"",
-      "image": "\"http://www.carlogos.org/logo/Chevrolet-Benz-logo.png\""
+      "name": "Chevrolet",
+      "image": "http://www.carlogos.org/logo/Chevrolet-Benz-logo.png",
+      "year": "2014"
     }
   ]
 }
